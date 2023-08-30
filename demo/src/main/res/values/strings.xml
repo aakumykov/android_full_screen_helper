@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FullScreenHelper (пример)</string>
-    <string name="FRAGMENT_FIRST_title">Первый фрагмент</string>
-    <string name="FRAGMENT_SECOND_title">Второй фрагмент</string>
-    <string name="FRAGMENT_tip">Нажмите для переключения режима полного экрана</string>
+    <string name="app_name">FullScreenHelper demo</string>
+    <string name="FRAGMENT_FIRST_title">First fragment</string>
+    <string name="FRAGMENT_SECOND_title">Second fragment</string>
+    <string name="FRAGMENT_tip">Click to toggle fullscreen state</string>
 </resources>
