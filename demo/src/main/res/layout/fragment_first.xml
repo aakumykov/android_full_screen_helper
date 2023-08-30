@@ -17,6 +17,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         style="@style/fragment_label"
-        android:text="@string/FRAGMENT_FIRST_label" />
+        android:text="@string/FRAGMENT_tip" />
 
 </FrameLayout>

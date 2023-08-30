@@ -1,8 +1,6 @@
 <resources>
-    <string name="app_name">FullScreenHelper demo</string>
-    <string name="FRAGMENT_FIRST_title">Первый</string>
-    <string name="FRAGMENT_SECOND_title">Второй</string>
-    <string name="FRAGMENT_FIRST_label">Первый фрагмент</string>
-    <string name="FRAGMENT_SECOND_label">Второй фрагмент</string>
-    <string name="MENU_ITEM_second_fragment">Второй фрагмент</string>
+    <string name="app_name">FullScreenHelper (пример)</string>
+    <string name="FRAGMENT_FIRST_title">Первый фрагмент</string>
+    <string name="FRAGMENT_SECOND_title">Второй фрагмент</string>
+    <string name="FRAGMENT_tip">Нажмите для переключения режима полного экрана</string>
 </resources>
